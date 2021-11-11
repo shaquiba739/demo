@@ -1,0 +1,2 @@
+This is the modified thrird file of a project
+andding second line in modified staged file
